@@ -61,7 +61,7 @@ echo " -----> Creating additional directories."
 
 mkdir -p /opt/app-root/data
 
-# Changing logos
+# Changing iventura logos
 git clone https://github.com/Ajay2307/iventura_logos.git
 cd iventura_logos
 cp jupyterhub-80.png /opt/app-root/share/jupyterhub/static/images/jupyterhub-80.png
